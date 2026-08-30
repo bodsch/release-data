@@ -131,12 +131,12 @@
     },
     "galaxy-z-fold8-ultra": {
       "name": "galaxy-z-fold8-ultra",
-      "eol": false,
+      "eol": "2033-08-07",
       "releaseLabel": "Galaxy Z Fold8 Ultra"
     },
     "galaxy-z-fold8": {
       "name": "galaxy-z-fold8",
-      "eol": false,
+      "eol": "2033-08-07",
       "releaseLabel": "Galaxy Z Fold8"
     },
     "galaxy-z-fold7": {
@@ -179,7 +179,7 @@
     },
     "galaxy-z-flip8": {
       "name": "galaxy-z-flip8",
-      "eol": false,
+      "eol": "2033-08-07",
       "releaseLabel": "Galaxy Z Flip8"
     },
     "galaxy-z-flip7-fe": {
@@ -782,7 +782,7 @@
     "galaxy-m47-5g": {
       "name": "galaxy-m47-5g",
       "releaseLabel": "Galaxy M47 5G",
-      "eol": false
+      "eol": "2032-07-04"
     },
     "galaxy-m44-5g": {
       "name": "galaxy-m44-5g",
@@ -1670,7 +1670,7 @@
     "galaxy-a27-5g": {
       "name": "galaxy-a27-5g",
       "releaseLabel": "Galaxy A27 5G",
-      "eol": false
+      "eol": "2032-07-14"
     },
     "galaxy-a26-5g": {
       "name": "galaxy-a26-5g",
